@@ -7,7 +7,7 @@ Follow these steps to make your first pull request-
   
   Clone your forked repository to your local machine.
   
-  Add your name in Contributors.md file.
+  Add your name in index.html alond with the profile link
   
 Write these command on your terminal-
   git add -A
